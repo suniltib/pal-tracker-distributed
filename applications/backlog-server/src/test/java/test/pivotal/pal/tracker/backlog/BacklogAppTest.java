@@ -6,7 +6,7 @@ import org.springframework.web.client.RestTemplate;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class BacklogAppTest {
+public class  BacklogAppTest {
 
     @Test
     public void embedded() {
