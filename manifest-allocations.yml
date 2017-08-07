@@ -14,5 +14,3 @@ applications:
   - tracker-amqp
   - tracker-sso
   -tracker-config-server
-
-
